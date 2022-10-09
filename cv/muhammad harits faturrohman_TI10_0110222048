@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="harits.jpeg" type="image/x-icon">
+    <title>harits</title>
+</head>
+
+<body>
+    <h1 align="center">DAFTAR RIWAYAT HIDUP</h1>
+   <div style="text-align: center;">
+        <img src="harits.jpeg" alt="harits">
+   </div>
+          
+    <h2>Profil</h2>
+    <hr>
+    <br>
+    <p>Nama   : Muhammad Harits Fathurrohman </p>
+    <p>umur   : 19</p>
+    <p>Alamat : kap.bedahan rt10 rw02 kec.cibinong</p>
+    <p>Agama  : islam</p>
+    <br>
+    <h2>Riwayat pendidikan</h2>
+    <hr>
+    <p>SDN cilangkap 2 :2010-2015</p>
+    <p>SMP assalam     :2015-2019</p>
+    <p>SMAIT ummul quro :2019-2022</p>
+    <p>STT nurul fikri :2022-sekarang</p>
+    <br>
+    <h2>Detail kontak</h2>
+    <hr>
+    <p> No.Telp :081212631367 </p>
+    <p> Email   :harits0927@gmail.com</p>
+   
+    
+</body>
+</html>
